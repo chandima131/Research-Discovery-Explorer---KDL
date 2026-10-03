@@ -1,0 +1,3752 @@
+{
+  "provenance": "Synthetic demonstration data. All profiles and publications are fictional; any resemblance is coincidental.",
+  "version": "1.0.0",
+  "departments": [
+    {
+      "id": 1,
+      "name": "Digital Humanities"
+    },
+    {
+      "id": 2,
+      "name": "History"
+    },
+    {
+      "id": 3,
+      "name": "Linguistics"
+    },
+    {
+      "id": 4,
+      "name": "Archaeology"
+    },
+    {
+      "id": 5,
+      "name": "Cultural Heritage"
+    },
+    {
+      "id": 6,
+      "name": "Computer Science"
+    },
+    {
+      "id": 7,
+      "name": "Design & Informatics"
+    },
+    {
+      "id": 8,
+      "name": "Sociology"
+    },
+    {
+      "id": 9,
+      "name": "Literature"
+    },
+    {
+      "id": 10,
+      "name": "Geography"
+    },
+    {
+      "id": 11,
+      "name": "Information Studies"
+    },
+    {
+      "id": 12,
+      "name": "Social Policy"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Language & archives",
+      "description": "Methods for interpreting cultural records at scale."
+    },
+    {
+      "id": 2,
+      "name": "Culture & heritage",
+      "description": "Understanding and preserving material and intangible culture."
+    },
+    {
+      "id": 3,
+      "name": "Responsible computation",
+      "description": "Transparent, inclusive computational methods for research."
+    },
+    {
+      "id": 4,
+      "name": "Society & communities",
+      "description": "Social change, participation and equitable institutions."
+    },
+    {
+      "id": 5,
+      "name": "Environment & place",
+      "description": "Relationships between communities, landscapes and environmental change."
+    },
+    {
+      "id": 6,
+      "name": "Open knowledge",
+      "description": "Reproducible, discoverable and accessible research infrastructure."
+    }
+  ],
+  "expertise": [
+    {
+      "id": 1,
+      "name": "Natural language processing"
+    },
+    {
+      "id": 2,
+      "name": "Historical archives"
+    },
+    {
+      "id": 3,
+      "name": "Machine learning"
+    },
+    {
+      "id": 4,
+      "name": "Community-led inquiry"
+    },
+    {
+      "id": 5,
+      "name": "Oral history"
+    },
+    {
+      "id": 6,
+      "name": "Archival analysis"
+    },
+    {
+      "id": 7,
+      "name": "Public history"
+    },
+    {
+      "id": 8,
+      "name": "Corpus linguistics"
+    },
+    {
+      "id": 9,
+      "name": "Sociolinguistics"
+    },
+    {
+      "id": 10,
+      "name": "Remote sensing"
+    },
+    {
+      "id": 11,
+      "name": "Landscape archaeology"
+    },
+    {
+      "id": 12,
+      "name": "Spatial analysis"
+    },
+    {
+      "id": 13,
+      "name": "Digital preservation"
+    },
+    {
+      "id": 14,
+      "name": "3D reconstruction"
+    },
+    {
+      "id": 15,
+      "name": "Museum studies"
+    },
+    {
+      "id": 16,
+      "name": "Explainable AI"
+    },
+    {
+      "id": 17,
+      "name": "Research software"
+    },
+    {
+      "id": 18,
+      "name": "Data visualisation"
+    },
+    {
+      "id": 19,
+      "name": "Human-computer interaction"
+    },
+    {
+      "id": 20,
+      "name": "Accessible design"
+    },
+    {
+      "id": 21,
+      "name": "Computational social science"
+    },
+    {
+      "id": 22,
+      "name": "Social network analysis"
+    },
+    {
+      "id": 23,
+      "name": "Qualitative methods"
+    },
+    {
+      "id": 24,
+      "name": "Literary analysis"
+    },
+    {
+      "id": 25,
+      "name": "Text mining"
+    },
+    {
+      "id": 26,
+      "name": "Book history"
+    },
+    {
+      "id": 27,
+      "name": "Geographic information systems"
+    },
+    {
+      "id": 28,
+      "name": "Climate adaptation"
+    },
+    {
+      "id": 29,
+      "name": "Digital archives"
+    },
+    {
+      "id": 30,
+      "name": "Metadata standards"
+    },
+    {
+      "id": 31,
+      "name": "Open science"
+    },
+    {
+      "id": 32,
+      "name": "Policy evaluation"
+    },
+    {
+      "id": 33,
+      "name": "Participatory research"
+    },
+    {
+      "id": 34,
+      "name": "Reproducible methods"
+    },
+    {
+      "id": 35,
+      "name": "Ethical data practice"
+    },
+    {
+      "id": 36,
+      "name": "Comparative analysis"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1,
+      "name": "correspondence"
+    },
+    {
+      "id": 2,
+      "name": "text mining"
+    },
+    {
+      "id": 3,
+      "name": "digital archives"
+    },
+    {
+      "id": 4,
+      "name": "memory"
+    },
+    {
+      "id": 5,
+      "name": "migration"
+    },
+    {
+      "id": 6,
+      "name": "historical documents"
+    },
+    {
+      "id": 7,
+      "name": "multilingualism"
+    },
+    {
+      "id": 8,
+      "name": "speech"
+    },
+    {
+      "id": 9,
+      "name": "language change"
+    },
+    {
+      "id": 10,
+      "name": "excavation"
+    },
+    {
+      "id": 11,
+      "name": "landscapes"
+    },
+    {
+      "id": 12,
+      "name": "geospatial data"
+    },
+    {
+      "id": 13,
+      "name": "collections"
+    },
+    {
+      "id": 14,
+      "name": "conservation"
+    },
+    {
+      "id": 15,
+      "name": "cultural heritage"
+    },
+    {
+      "id": 16,
+      "name": "algorithms"
+    },
+    {
+      "id": 17,
+      "name": "reproducibility"
+    },
+    {
+      "id": 18,
+      "name": "model evaluation"
+    },
+    {
+      "id": 19,
+      "name": "interaction"
+    },
+    {
+      "id": 20,
+      "name": "accessibility"
+    },
+    {
+      "id": 21,
+      "name": "visual analytics"
+    },
+    {
+      "id": 22,
+      "name": "inequality"
+    },
+    {
+      "id": 23,
+      "name": "communities"
+    },
+    {
+      "id": 24,
+      "name": "social networks"
+    },
+    {
+      "id": 25,
+      "name": "narrative"
+    },
+    {
+      "id": 26,
+      "name": "publishing"
+    },
+    {
+      "id": 27,
+      "name": "distant reading"
+    },
+    {
+      "id": 28,
+      "name": "climate"
+    },
+    {
+      "id": 29,
+      "name": "cities"
+    },
+    {
+      "id": 30,
+      "name": "environmental justice"
+    },
+    {
+      "id": 31,
+      "name": "FAIR data"
+    },
+    {
+      "id": 32,
+      "name": "repositories"
+    },
+    {
+      "id": 33,
+      "name": "data stewardship"
+    },
+    {
+      "id": 34,
+      "name": "public services"
+    },
+    {
+      "id": 35,
+      "name": "inclusion"
+    },
+    {
+      "id": 36,
+      "name": "evidence"
+    }
+  ],
+  "researchers": [
+    {
+      "id": 1,
+      "name": "Dr Maya Bennett",
+      "department": {
+        "id": 1,
+        "name": "Digital Humanities"
+      },
+      "biography": "Maya investigates how computational methods reveal patterns in historical correspondence and digitised collections. Their work works with community groups to identify research questions and interpret findings. Current projects connect correspondence with historical archives in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 1,
+          "name": "Natural language processing"
+        },
+        {
+          "id": 2,
+          "name": "Historical archives"
+        },
+        {
+          "id": 3,
+          "name": "Machine learning"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 1,
+          "name": "correspondence"
+        },
+        {
+          "id": 2,
+          "name": "text mining"
+        },
+        {
+          "id": 3,
+          "name": "digital archives"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 1,
+          "title": "Computational Analysis of Nineteenth-Century Correspondence",
+          "abstract": "This fictional study investigates correspondence through natural language processing. It uses community-led inquiry to examine text mining, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 2,
+          "title": "Recovering Voices from Fragmented Archives",
+          "abstract": "This fictional study investigates text mining through historical archives. It uses community-led inquiry to examine digital archives, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Dr Elias Vale",
+      "department": {
+        "id": 2,
+        "name": "History"
+      },
+      "biography": "Elias studies migration and collective memory through oral testimony, community records and historical documents. Their work works with community groups to identify research questions and interpret findings. Current projects connect memory with archival analysis in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 5,
+          "name": "Oral history"
+        },
+        {
+          "id": 6,
+          "name": "Archival analysis"
+        },
+        {
+          "id": 7,
+          "name": "Public history"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 4,
+          "name": "memory"
+        },
+        {
+          "id": 5,
+          "name": "migration"
+        },
+        {
+          "id": 6,
+          "name": "historical documents"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 5,
+          "title": "Community Memory and the Moving Archive",
+          "abstract": "This fictional study investigates memory through oral history. It uses community-led inquiry to examine migration, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 6,
+          "title": "Reading Migration through Local Records",
+          "abstract": "This fictional study investigates migration through archival analysis. It uses community-led inquiry to examine historical documents, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 7,
+          "title": "Community Memory and the Moving Archive: Follow-up Evidence",
+          "abstract": "This fictional study investigates historical documents through public history. It uses community-led inquiry to examine memory, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Dr Leila Hartwell",
+      "department": {
+        "id": 3,
+        "name": "Linguistics"
+      },
+      "biography": "Leila examines language change across multilingual communities using annotated text corpora and spoken narratives. Their work works with community groups to identify research questions and interpret findings. Current projects connect multilingualism with natural language processing in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 8,
+          "name": "Corpus linguistics"
+        },
+        {
+          "id": 1,
+          "name": "Natural language processing"
+        },
+        {
+          "id": 9,
+          "name": "Sociolinguistics"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 7,
+          "name": "multilingualism"
+        },
+        {
+          "id": 8,
+          "name": "speech"
+        },
+        {
+          "id": 9,
+          "name": "language change"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 9,
+          "title": "Language Change in Multilingual Neighbourhoods",
+          "abstract": "This fictional study investigates multilingualism through corpus linguistics. It uses community-led inquiry to examine speech, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 10,
+          "title": "Building Inclusive Speech Corpora",
+          "abstract": "This fictional study investigates speech through natural language processing. It uses community-led inquiry to examine language change, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 11,
+          "title": "Language Change in Multilingual Neighbourhoods: Follow-up Evidence",
+          "abstract": "This fictional study investigates language change through sociolinguistics. It uses community-led inquiry to examine multilingualism, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 12,
+          "title": "Building Inclusive Speech Corpora: Follow-up Evidence",
+          "abstract": "This fictional study investigates multilingualism through corpus linguistics. It uses community-led inquiry to examine speech, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Dr Theo Ashford",
+      "department": {
+        "id": 4,
+        "name": "Archaeology"
+      },
+      "biography": "Theo combines satellite imagery and field surveys to reconstruct settlement patterns and archaeological landscapes. Their work works with community groups to identify research questions and interpret findings. Current projects connect excavation with landscape archaeology in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 10,
+          "name": "Remote sensing"
+        },
+        {
+          "id": 11,
+          "name": "Landscape archaeology"
+        },
+        {
+          "id": 12,
+          "name": "Spatial analysis"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 10,
+          "name": "excavation"
+        },
+        {
+          "id": 11,
+          "name": "landscapes"
+        },
+        {
+          "id": 12,
+          "name": "geospatial data"
+        }
+      ],
+      "themes": [
+        {
+          "id": 2,
+          "name": "Culture & heritage",
+          "description": "Understanding and preserving material and intangible culture."
+        }
+      ],
+      "publications": [
+        {
+          "id": 13,
+          "title": "Tracing Settlement Networks with Satellite Imagery",
+          "abstract": "This fictional study investigates excavation through remote sensing. It uses community-led inquiry to examine landscapes, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 14,
+          "title": "A Reproducible Survey of Coastal Landscapes",
+          "abstract": "This fictional study investigates landscapes through landscape archaeology. It uses community-led inquiry to examine geospatial data, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Dr Amara Fenwick",
+      "department": {
+        "id": 5,
+        "name": "Cultural Heritage"
+      },
+      "biography": "Amara develops participatory approaches to preserving museum collections through three-dimensional reconstruction and community interpretation. Their work works with community groups to identify research questions and interpret findings. Current projects connect collections with 3d reconstruction in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 13,
+          "name": "Digital preservation"
+        },
+        {
+          "id": 14,
+          "name": "3D reconstruction"
+        },
+        {
+          "id": 15,
+          "name": "Museum studies"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 13,
+          "name": "collections"
+        },
+        {
+          "id": 14,
+          "name": "conservation"
+        },
+        {
+          "id": 15,
+          "name": "cultural heritage"
+        }
+      ],
+      "themes": [
+        {
+          "id": 2,
+          "name": "Culture & heritage",
+          "description": "Understanding and preserving material and intangible culture."
+        }
+      ],
+      "publications": [
+        {
+          "id": 17,
+          "title": "Participatory Reconstruction of Material Heritage",
+          "abstract": "This fictional study investigates collections through digital preservation. It uses community-led inquiry to examine conservation, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 18,
+          "title": "Digital Conservation Beyond the Museum",
+          "abstract": "This fictional study investigates conservation through 3d reconstruction. It uses community-led inquiry to examine cultural heritage, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 19,
+          "title": "Participatory Reconstruction of Material Heritage: Follow-up Evidence",
+          "abstract": "This fictional study investigates cultural heritage through museum studies. It uses community-led inquiry to examine collections, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Dr Felix Mercer",
+      "department": {
+        "id": 6,
+        "name": "Computer Science"
+      },
+      "biography": "Felix designs interpretable learning algorithms and reproducible software to examine uncertainty and bias in scientific datasets. Their work works with community groups to identify research questions and interpret findings. Current projects connect algorithms with explainable ai in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 3,
+          "name": "Machine learning"
+        },
+        {
+          "id": 16,
+          "name": "Explainable AI"
+        },
+        {
+          "id": 17,
+          "name": "Research software"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 16,
+          "name": "algorithms"
+        },
+        {
+          "id": 17,
+          "name": "reproducibility"
+        },
+        {
+          "id": 18,
+          "name": "model evaluation"
+        }
+      ],
+      "themes": [
+        {
+          "id": 3,
+          "name": "Responsible computation",
+          "description": "Transparent, inclusive computational methods for research."
+        }
+      ],
+      "publications": [
+        {
+          "id": 21,
+          "title": "Interpretable Models for Small Research Datasets",
+          "abstract": "This fictional study investigates algorithms through machine learning. It uses community-led inquiry to examine reproducibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 22,
+          "title": "Evaluating Uncertainty in Scientific Machine Learning",
+          "abstract": "This fictional study investigates reproducibility through explainable ai. It uses community-led inquiry to examine model evaluation, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 23,
+          "title": "Interpretable Models for Small Research Datasets: Follow-up Evidence",
+          "abstract": "This fictional study investigates model evaluation through research software. It uses community-led inquiry to examine algorithms, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 24,
+          "title": "Evaluating Uncertainty in Scientific Machine Learning: Follow-up Evidence",
+          "abstract": "This fictional study investigates algorithms through machine learning. It uses community-led inquiry to examine reproducibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Dr Nadia Elwood",
+      "department": {
+        "id": 7,
+        "name": "Design & Informatics"
+      },
+      "biography": "Nadia creates accessible visual interfaces that help diverse audiences explore complex data and understand uncertainty. Their work works with community groups to identify research questions and interpret findings. Current projects connect interaction with human-computer interaction in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 18,
+          "name": "Data visualisation"
+        },
+        {
+          "id": 19,
+          "name": "Human-computer interaction"
+        },
+        {
+          "id": 20,
+          "name": "Accessible design"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 19,
+          "name": "interaction"
+        },
+        {
+          "id": 20,
+          "name": "accessibility"
+        },
+        {
+          "id": 21,
+          "name": "visual analytics"
+        }
+      ],
+      "themes": [
+        {
+          "id": 3,
+          "name": "Responsible computation",
+          "description": "Transparent, inclusive computational methods for research."
+        }
+      ],
+      "publications": [
+        {
+          "id": 25,
+          "title": "Accessible Visual Analytics for Public Research",
+          "abstract": "This fictional study investigates interaction through data visualisation. It uses community-led inquiry to examine accessibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 26,
+          "title": "Communicating Uncertainty through Interactive Design",
+          "abstract": "This fictional study investigates accessibility through human-computer interaction. It uses community-led inquiry to examine visual analytics, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Dr Rowan Bellamy",
+      "department": {
+        "id": 8,
+        "name": "Sociology"
+      },
+      "biography": "Rowan examines social inequality and community participation through network analysis, interviews and longitudinal surveys. Their work works with community groups to identify research questions and interpret findings. Current projects connect inequality with social network analysis in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 21,
+          "name": "Computational social science"
+        },
+        {
+          "id": 22,
+          "name": "Social network analysis"
+        },
+        {
+          "id": 23,
+          "name": "Qualitative methods"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 22,
+          "name": "inequality"
+        },
+        {
+          "id": 23,
+          "name": "communities"
+        },
+        {
+          "id": 24,
+          "name": "social networks"
+        }
+      ],
+      "themes": [
+        {
+          "id": 4,
+          "name": "Society & communities",
+          "description": "Social change, participation and equitable institutions."
+        }
+      ],
+      "publications": [
+        {
+          "id": 29,
+          "title": "Mapping Participation in Community Networks",
+          "abstract": "This fictional study investigates inequality through computational social science. It uses community-led inquiry to examine communities, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 30,
+          "title": "Mixed Methods for Studying Social Inequality",
+          "abstract": "This fictional study investigates communities through social network analysis. It uses community-led inquiry to examine social networks, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 31,
+          "title": "Mapping Participation in Community Networks: Follow-up Evidence",
+          "abstract": "This fictional study investigates social networks through qualitative methods. It uses community-led inquiry to examine inequality, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Dr Sana Wrenford",
+      "department": {
+        "id": 9,
+        "name": "Literature"
+      },
+      "biography": "Sana explores narrative form and publishing history using close reading alongside computational analysis of digitised novels. Their work works with community groups to identify research questions and interpret findings. Current projects connect narrative with text mining in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 24,
+          "name": "Literary analysis"
+        },
+        {
+          "id": 25,
+          "name": "Text mining"
+        },
+        {
+          "id": 26,
+          "name": "Book history"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 25,
+          "name": "narrative"
+        },
+        {
+          "id": 26,
+          "name": "publishing"
+        },
+        {
+          "id": 27,
+          "name": "distant reading"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 33,
+          "title": "Narrative Patterns across Digitised Fiction",
+          "abstract": "This fictional study investigates narrative through literary analysis. It uses community-led inquiry to examine publishing, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 34,
+          "title": "The Changing Networks of Independent Publishing",
+          "abstract": "This fictional study investigates publishing through text mining. It uses community-led inquiry to examine distant reading, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 35,
+          "title": "Narrative Patterns across Digitised Fiction: Follow-up Evidence",
+          "abstract": "This fictional study investigates distant reading through book history. It uses community-led inquiry to examine narrative, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 36,
+          "title": "The Changing Networks of Independent Publishing: Follow-up Evidence",
+          "abstract": "This fictional study investigates narrative through literary analysis. It uses community-led inquiry to examine publishing, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 10,
+      "name": "Dr Hugo Calder",
+      "department": {
+        "id": 10,
+        "name": "Geography"
+      },
+      "biography": "Hugo maps how urban communities experience environmental change and develop equitable approaches to climate adaptation. Their work works with community groups to identify research questions and interpret findings. Current projects connect climate with climate adaptation in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 27,
+          "name": "Geographic information systems"
+        },
+        {
+          "id": 28,
+          "name": "Climate adaptation"
+        },
+        {
+          "id": 12,
+          "name": "Spatial analysis"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 28,
+          "name": "climate"
+        },
+        {
+          "id": 29,
+          "name": "cities"
+        },
+        {
+          "id": 30,
+          "name": "environmental justice"
+        }
+      ],
+      "themes": [
+        {
+          "id": 5,
+          "name": "Environment & place",
+          "description": "Relationships between communities, landscapes and environmental change."
+        }
+      ],
+      "publications": [
+        {
+          "id": 37,
+          "title": "Urban Heat and Unequal Exposure",
+          "abstract": "This fictional study investigates climate through geographic information systems. It uses community-led inquiry to examine cities, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 38,
+          "title": "Community Mapping for Climate Adaptation",
+          "abstract": "This fictional study investigates cities through climate adaptation. It uses community-led inquiry to examine environmental justice, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 11,
+      "name": "Dr Iris Hollis",
+      "department": {
+        "id": 11,
+        "name": "Information Studies"
+      },
+      "biography": "Iris builds sustainable research data practices using interoperable metadata, open repositories and community-led stewardship. Their work works with community groups to identify research questions and interpret findings. Current projects connect FAIR data with metadata standards in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 29,
+          "name": "Digital archives"
+        },
+        {
+          "id": 30,
+          "name": "Metadata standards"
+        },
+        {
+          "id": 31,
+          "name": "Open science"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 31,
+          "name": "FAIR data"
+        },
+        {
+          "id": 32,
+          "name": "repositories"
+        },
+        {
+          "id": 33,
+          "name": "data stewardship"
+        }
+      ],
+      "themes": [
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 41,
+          "title": "Interoperable Metadata for Community Collections",
+          "abstract": "This fictional study investigates FAIR data through digital archives. It uses community-led inquiry to examine repositories, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 42,
+          "title": "Sustainable Stewardship of Open Research Data",
+          "abstract": "This fictional study investigates repositories through metadata standards. It uses community-led inquiry to examine data stewardship, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 43,
+          "title": "Interoperable Metadata for Community Collections: Follow-up Evidence",
+          "abstract": "This fictional study investigates data stewardship through open science. It uses community-led inquiry to examine FAIR data, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "name": "Dr Kiran Whitcombe",
+      "department": {
+        "id": 12,
+        "name": "Social Policy"
+      },
+      "biography": "Kiran evaluates public services with participatory methods and linked administrative data to understand barriers to inclusion. Their work works with community groups to identify research questions and interpret findings. Current projects connect public services with computational social science in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 32,
+          "name": "Policy evaluation"
+        },
+        {
+          "id": 21,
+          "name": "Computational social science"
+        },
+        {
+          "id": 33,
+          "name": "Participatory research"
+        },
+        {
+          "id": 4,
+          "name": "Community-led inquiry"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 34,
+          "name": "public services"
+        },
+        {
+          "id": 35,
+          "name": "inclusion"
+        },
+        {
+          "id": 36,
+          "name": "evidence"
+        }
+      ],
+      "themes": [
+        {
+          "id": 4,
+          "name": "Society & communities",
+          "description": "Social change, participation and equitable institutions."
+        }
+      ],
+      "publications": [
+        {
+          "id": 45,
+          "title": "Participatory Evidence for Inclusive Public Services",
+          "abstract": "This fictional study investigates public services through policy evaluation. It uses community-led inquiry to examine inclusion, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 46,
+          "title": "Evaluating Local Policy with Linked Data",
+          "abstract": "This fictional study investigates inclusion through computational social science. It uses community-led inquiry to examine evidence, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 47,
+          "title": "Participatory Evidence for Inclusive Public Services: Follow-up Evidence",
+          "abstract": "This fictional study investigates evidence through participatory research. It uses community-led inquiry to examine public services, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 48,
+          "title": "Evaluating Local Policy with Linked Data: Follow-up Evidence",
+          "abstract": "This fictional study investigates public services through policy evaluation. It uses community-led inquiry to examine inclusion, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 13,
+      "name": "Dr Ada Briar",
+      "department": {
+        "id": 1,
+        "name": "Digital Humanities"
+      },
+      "biography": "Ada investigates how computational methods reveal patterns in historical correspondence and digitised collections. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect correspondence with historical archives in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 1,
+          "name": "Natural language processing"
+        },
+        {
+          "id": 2,
+          "name": "Historical archives"
+        },
+        {
+          "id": 3,
+          "name": "Machine learning"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 1,
+          "name": "correspondence"
+        },
+        {
+          "id": 2,
+          "name": "text mining"
+        },
+        {
+          "id": 3,
+          "name": "digital archives"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 49,
+          "title": "Computational Analysis of Nineteenth-Century Correspondence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates correspondence through natural language processing. It uses reproducible methods to examine text mining, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 50,
+          "title": "Recovering Voices from Fragmented Archives — Methods and Reproducibility",
+          "abstract": "This fictional study investigates text mining through historical archives. It uses reproducible methods to examine digital archives, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 14,
+      "name": "Dr Jonah Northwood",
+      "department": {
+        "id": 2,
+        "name": "History"
+      },
+      "biography": "Jonah studies migration and collective memory through oral testimony, community records and historical documents. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect memory with archival analysis in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 5,
+          "name": "Oral history"
+        },
+        {
+          "id": 6,
+          "name": "Archival analysis"
+        },
+        {
+          "id": 7,
+          "name": "Public history"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 4,
+          "name": "memory"
+        },
+        {
+          "id": 5,
+          "name": "migration"
+        },
+        {
+          "id": 6,
+          "name": "historical documents"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 53,
+          "title": "Community Memory and the Moving Archive — Methods and Reproducibility",
+          "abstract": "This fictional study investigates memory through oral history. It uses reproducible methods to examine migration, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 54,
+          "title": "Reading Migration through Local Records — Methods and Reproducibility",
+          "abstract": "This fictional study investigates migration through archival analysis. It uses reproducible methods to examine historical documents, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 55,
+          "title": "Community Memory and the Moving Archive: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates historical documents through public history. It uses reproducible methods to examine memory, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 15,
+      "name": "Dr Esme Alden",
+      "department": {
+        "id": 3,
+        "name": "Linguistics"
+      },
+      "biography": "Esme examines language change across multilingual communities using annotated text corpora and spoken narratives. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect multilingualism with natural language processing in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 8,
+          "name": "Corpus linguistics"
+        },
+        {
+          "id": 1,
+          "name": "Natural language processing"
+        },
+        {
+          "id": 9,
+          "name": "Sociolinguistics"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 7,
+          "name": "multilingualism"
+        },
+        {
+          "id": 8,
+          "name": "speech"
+        },
+        {
+          "id": 9,
+          "name": "language change"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 57,
+          "title": "Language Change in Multilingual Neighbourhoods — Methods and Reproducibility",
+          "abstract": "This fictional study investigates multilingualism through corpus linguistics. It uses reproducible methods to examine speech, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 58,
+          "title": "Building Inclusive Speech Corpora — Methods and Reproducibility",
+          "abstract": "This fictional study investigates speech through natural language processing. It uses reproducible methods to examine language change, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 59,
+          "title": "Language Change in Multilingual Neighbourhoods: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates language change through sociolinguistics. It uses reproducible methods to examine multilingualism, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 60,
+          "title": "Building Inclusive Speech Corpora: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates multilingualism through corpus linguistics. It uses reproducible methods to examine speech, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 16,
+      "name": "Dr Luca Fairbourne",
+      "department": {
+        "id": 4,
+        "name": "Archaeology"
+      },
+      "biography": "Luca combines satellite imagery and field surveys to reconstruct settlement patterns and archaeological landscapes. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect excavation with landscape archaeology in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 10,
+          "name": "Remote sensing"
+        },
+        {
+          "id": 11,
+          "name": "Landscape archaeology"
+        },
+        {
+          "id": 12,
+          "name": "Spatial analysis"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 10,
+          "name": "excavation"
+        },
+        {
+          "id": 11,
+          "name": "landscapes"
+        },
+        {
+          "id": 12,
+          "name": "geospatial data"
+        }
+      ],
+      "themes": [
+        {
+          "id": 2,
+          "name": "Culture & heritage",
+          "description": "Understanding and preserving material and intangible culture."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 61,
+          "title": "Tracing Settlement Networks with Satellite Imagery — Methods and Reproducibility",
+          "abstract": "This fictional study investigates excavation through remote sensing. It uses reproducible methods to examine landscapes, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 62,
+          "title": "A Reproducible Survey of Coastal Landscapes — Methods and Reproducibility",
+          "abstract": "This fictional study investigates landscapes through landscape archaeology. It uses reproducible methods to examine geospatial data, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 17,
+      "name": "Dr Zara Marlow",
+      "department": {
+        "id": 5,
+        "name": "Cultural Heritage"
+      },
+      "biography": "Zara develops participatory approaches to preserving museum collections through three-dimensional reconstruction and community interpretation. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect collections with 3d reconstruction in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 13,
+          "name": "Digital preservation"
+        },
+        {
+          "id": 14,
+          "name": "3D reconstruction"
+        },
+        {
+          "id": 15,
+          "name": "Museum studies"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 13,
+          "name": "collections"
+        },
+        {
+          "id": 14,
+          "name": "conservation"
+        },
+        {
+          "id": 15,
+          "name": "cultural heritage"
+        }
+      ],
+      "themes": [
+        {
+          "id": 2,
+          "name": "Culture & heritage",
+          "description": "Understanding and preserving material and intangible culture."
+        }
+      ],
+      "publications": [
+        {
+          "id": 65,
+          "title": "Participatory Reconstruction of Material Heritage — Methods and Reproducibility",
+          "abstract": "This fictional study investigates collections through digital preservation. It uses reproducible methods to examine conservation, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 66,
+          "title": "Digital Conservation Beyond the Museum — Methods and Reproducibility",
+          "abstract": "This fictional study investigates conservation through 3d reconstruction. It uses reproducible methods to examine cultural heritage, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 67,
+          "title": "Participatory Reconstruction of Material Heritage: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates cultural heritage through museum studies. It uses reproducible methods to examine collections, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 18,
+      "name": "Dr Otis Greystone",
+      "department": {
+        "id": 6,
+        "name": "Computer Science"
+      },
+      "biography": "Otis designs interpretable learning algorithms and reproducible software to examine uncertainty and bias in scientific datasets. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect algorithms with explainable ai in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 3,
+          "name": "Machine learning"
+        },
+        {
+          "id": 16,
+          "name": "Explainable AI"
+        },
+        {
+          "id": 17,
+          "name": "Research software"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 16,
+          "name": "algorithms"
+        },
+        {
+          "id": 17,
+          "name": "reproducibility"
+        },
+        {
+          "id": 18,
+          "name": "model evaluation"
+        }
+      ],
+      "themes": [
+        {
+          "id": 3,
+          "name": "Responsible computation",
+          "description": "Transparent, inclusive computational methods for research."
+        }
+      ],
+      "publications": [
+        {
+          "id": 69,
+          "title": "Interpretable Models for Small Research Datasets — Methods and Reproducibility",
+          "abstract": "This fictional study investigates algorithms through machine learning. It uses reproducible methods to examine reproducibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 70,
+          "title": "Evaluating Uncertainty in Scientific Machine Learning — Methods and Reproducibility",
+          "abstract": "This fictional study investigates reproducibility through explainable ai. It uses reproducible methods to examine model evaluation, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 71,
+          "title": "Interpretable Models for Small Research Datasets: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates model evaluation through research software. It uses reproducible methods to examine algorithms, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 72,
+          "title": "Evaluating Uncertainty in Scientific Machine Learning: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates algorithms through machine learning. It uses reproducible methods to examine reproducibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 19,
+      "name": "Dr Mina Larkin",
+      "department": {
+        "id": 7,
+        "name": "Design & Informatics"
+      },
+      "biography": "Mina creates accessible visual interfaces that help diverse audiences explore complex data and understand uncertainty. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect interaction with human-computer interaction in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 18,
+          "name": "Data visualisation"
+        },
+        {
+          "id": 19,
+          "name": "Human-computer interaction"
+        },
+        {
+          "id": 20,
+          "name": "Accessible design"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 19,
+          "name": "interaction"
+        },
+        {
+          "id": 20,
+          "name": "accessibility"
+        },
+        {
+          "id": 21,
+          "name": "visual analytics"
+        }
+      ],
+      "themes": [
+        {
+          "id": 3,
+          "name": "Responsible computation",
+          "description": "Transparent, inclusive computational methods for research."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 73,
+          "title": "Accessible Visual Analytics for Public Research — Methods and Reproducibility",
+          "abstract": "This fictional study investigates interaction through data visualisation. It uses reproducible methods to examine accessibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 74,
+          "title": "Communicating Uncertainty through Interactive Design — Methods and Reproducibility",
+          "abstract": "This fictional study investigates accessibility through human-computer interaction. It uses reproducible methods to examine visual analytics, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 20,
+      "name": "Dr Arlo Westbrook",
+      "department": {
+        "id": 8,
+        "name": "Sociology"
+      },
+      "biography": "Arlo examines social inequality and community participation through network analysis, interviews and longitudinal surveys. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect inequality with social network analysis in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 21,
+          "name": "Computational social science"
+        },
+        {
+          "id": 22,
+          "name": "Social network analysis"
+        },
+        {
+          "id": 23,
+          "name": "Qualitative methods"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 22,
+          "name": "inequality"
+        },
+        {
+          "id": 23,
+          "name": "communities"
+        },
+        {
+          "id": 24,
+          "name": "social networks"
+        }
+      ],
+      "themes": [
+        {
+          "id": 4,
+          "name": "Society & communities",
+          "description": "Social change, participation and equitable institutions."
+        }
+      ],
+      "publications": [
+        {
+          "id": 77,
+          "title": "Mapping Participation in Community Networks — Methods and Reproducibility",
+          "abstract": "This fictional study investigates inequality through computational social science. It uses reproducible methods to examine communities, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 78,
+          "title": "Mixed Methods for Studying Social Inequality — Methods and Reproducibility",
+          "abstract": "This fictional study investigates communities through social network analysis. It uses reproducible methods to examine social networks, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 79,
+          "title": "Mapping Participation in Community Networks: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates social networks through qualitative methods. It uses reproducible methods to examine inequality, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 21,
+      "name": "Dr Nora Dunley",
+      "department": {
+        "id": 9,
+        "name": "Literature"
+      },
+      "biography": "Nora explores narrative form and publishing history using close reading alongside computational analysis of digitised novels. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect narrative with text mining in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 24,
+          "name": "Literary analysis"
+        },
+        {
+          "id": 25,
+          "name": "Text mining"
+        },
+        {
+          "id": 26,
+          "name": "Book history"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 25,
+          "name": "narrative"
+        },
+        {
+          "id": 26,
+          "name": "publishing"
+        },
+        {
+          "id": 27,
+          "name": "distant reading"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 81,
+          "title": "Narrative Patterns across Digitised Fiction — Methods and Reproducibility",
+          "abstract": "This fictional study investigates narrative through literary analysis. It uses reproducible methods to examine publishing, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 82,
+          "title": "The Changing Networks of Independent Publishing — Methods and Reproducibility",
+          "abstract": "This fictional study investigates publishing through text mining. It uses reproducible methods to examine distant reading, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 83,
+          "title": "Narrative Patterns across Digitised Fiction: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates distant reading through book history. It uses reproducible methods to examine narrative, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 84,
+          "title": "The Changing Networks of Independent Publishing: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates narrative through literary analysis. It uses reproducible methods to examine publishing, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 22,
+      "name": "Dr Idris Pember",
+      "department": {
+        "id": 10,
+        "name": "Geography"
+      },
+      "biography": "Idris maps how urban communities experience environmental change and develop equitable approaches to climate adaptation. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect climate with climate adaptation in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 27,
+          "name": "Geographic information systems"
+        },
+        {
+          "id": 28,
+          "name": "Climate adaptation"
+        },
+        {
+          "id": 12,
+          "name": "Spatial analysis"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 28,
+          "name": "climate"
+        },
+        {
+          "id": 29,
+          "name": "cities"
+        },
+        {
+          "id": 30,
+          "name": "environmental justice"
+        }
+      ],
+      "themes": [
+        {
+          "id": 5,
+          "name": "Environment & place",
+          "description": "Relationships between communities, landscapes and environmental change."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 85,
+          "title": "Urban Heat and Unequal Exposure — Methods and Reproducibility",
+          "abstract": "This fictional study investigates climate through geographic information systems. It uses reproducible methods to examine cities, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 86,
+          "title": "Community Mapping for Climate Adaptation — Methods and Reproducibility",
+          "abstract": "This fictional study investigates cities through climate adaptation. It uses reproducible methods to examine environmental justice, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 23,
+      "name": "Dr Cleo Roswell",
+      "department": {
+        "id": 11,
+        "name": "Information Studies"
+      },
+      "biography": "Cleo builds sustainable research data practices using interoperable metadata, open repositories and community-led stewardship. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect FAIR data with metadata standards in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 29,
+          "name": "Digital archives"
+        },
+        {
+          "id": 30,
+          "name": "Metadata standards"
+        },
+        {
+          "id": 31,
+          "name": "Open science"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 31,
+          "name": "FAIR data"
+        },
+        {
+          "id": 32,
+          "name": "repositories"
+        },
+        {
+          "id": 33,
+          "name": "data stewardship"
+        }
+      ],
+      "themes": [
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 89,
+          "title": "Interoperable Metadata for Community Collections — Methods and Reproducibility",
+          "abstract": "This fictional study investigates FAIR data through digital archives. It uses reproducible methods to examine repositories, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 90,
+          "title": "Sustainable Stewardship of Open Research Data — Methods and Reproducibility",
+          "abstract": "This fictional study investigates repositories through metadata standards. It uses reproducible methods to examine data stewardship, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 91,
+          "title": "Interoperable Metadata for Community Collections: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates data stewardship through open science. It uses reproducible methods to examine FAIR data, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 24,
+      "name": "Dr Rafi Fielding",
+      "department": {
+        "id": 12,
+        "name": "Social Policy"
+      },
+      "biography": "Rafi evaluates public services with participatory methods and linked administrative data to understand barriers to inclusion. Their work publishes reproducible workflows and compares methodological choices across independent datasets. Current projects connect public services with computational social science in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 32,
+          "name": "Policy evaluation"
+        },
+        {
+          "id": 21,
+          "name": "Computational social science"
+        },
+        {
+          "id": 33,
+          "name": "Participatory research"
+        },
+        {
+          "id": 34,
+          "name": "Reproducible methods"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 34,
+          "name": "public services"
+        },
+        {
+          "id": 35,
+          "name": "inclusion"
+        },
+        {
+          "id": 36,
+          "name": "evidence"
+        }
+      ],
+      "themes": [
+        {
+          "id": 4,
+          "name": "Society & communities",
+          "description": "Social change, participation and equitable institutions."
+        }
+      ],
+      "publications": [
+        {
+          "id": 93,
+          "title": "Participatory Evidence for Inclusive Public Services — Methods and Reproducibility",
+          "abstract": "This fictional study investigates public services through policy evaluation. It uses reproducible methods to examine inclusion, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 94,
+          "title": "Evaluating Local Policy with Linked Data — Methods and Reproducibility",
+          "abstract": "This fictional study investigates inclusion through computational social science. It uses reproducible methods to examine evidence, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 95,
+          "title": "Participatory Evidence for Inclusive Public Services: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates evidence through participatory research. It uses reproducible methods to examine public services, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 96,
+          "title": "Evaluating Local Policy with Linked Data: Follow-up Evidence — Methods and Reproducibility",
+          "abstract": "This fictional study investigates public services through policy evaluation. It uses reproducible methods to examine inclusion, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 25,
+      "name": "Dr Anya Cresswell",
+      "department": {
+        "id": 1,
+        "name": "Digital Humanities"
+      },
+      "biography": "Anya investigates how computational methods reveal patterns in historical correspondence and digitised collections. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect correspondence with historical archives in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 1,
+          "name": "Natural language processing"
+        },
+        {
+          "id": 2,
+          "name": "Historical archives"
+        },
+        {
+          "id": 3,
+          "name": "Machine learning"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 1,
+          "name": "correspondence"
+        },
+        {
+          "id": 2,
+          "name": "text mining"
+        },
+        {
+          "id": 3,
+          "name": "digital archives"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 97,
+          "title": "Computational Analysis of Nineteenth-Century Correspondence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates correspondence through natural language processing. It uses ethical data practice to examine text mining, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 98,
+          "title": "Recovering Voices from Fragmented Archives — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates text mining through historical archives. It uses ethical data practice to examine digital archives, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 26,
+      "name": "Dr Leon Hawthorne",
+      "department": {
+        "id": 2,
+        "name": "History"
+      },
+      "biography": "Leon studies migration and collective memory through oral testimony, community records and historical documents. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect memory with archival analysis in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 5,
+          "name": "Oral history"
+        },
+        {
+          "id": 6,
+          "name": "Archival analysis"
+        },
+        {
+          "id": 7,
+          "name": "Public history"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 4,
+          "name": "memory"
+        },
+        {
+          "id": 5,
+          "name": "migration"
+        },
+        {
+          "id": 6,
+          "name": "historical documents"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 101,
+          "title": "Community Memory and the Moving Archive — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates memory through oral history. It uses ethical data practice to examine migration, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 102,
+          "title": "Reading Migration through Local Records — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates migration through archival analysis. It uses ethical data practice to examine historical documents, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 103,
+          "title": "Community Memory and the Moving Archive: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates historical documents through public history. It uses ethical data practice to examine memory, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 27,
+      "name": "Dr Talia Ellery",
+      "department": {
+        "id": 3,
+        "name": "Linguistics"
+      },
+      "biography": "Talia examines language change across multilingual communities using annotated text corpora and spoken narratives. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect multilingualism with natural language processing in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 8,
+          "name": "Corpus linguistics"
+        },
+        {
+          "id": 1,
+          "name": "Natural language processing"
+        },
+        {
+          "id": 9,
+          "name": "Sociolinguistics"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 7,
+          "name": "multilingualism"
+        },
+        {
+          "id": 8,
+          "name": "speech"
+        },
+        {
+          "id": 9,
+          "name": "language change"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 105,
+          "title": "Language Change in Multilingual Neighbourhoods — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates multilingualism through corpus linguistics. It uses ethical data practice to examine speech, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 106,
+          "title": "Building Inclusive Speech Corpora — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates speech through natural language processing. It uses ethical data practice to examine language change, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 107,
+          "title": "Language Change in Multilingual Neighbourhoods: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates language change through sociolinguistics. It uses ethical data practice to examine multilingualism, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 108,
+          "title": "Building Inclusive Speech Corpora: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates multilingualism through corpus linguistics. It uses ethical data practice to examine speech, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 28,
+      "name": "Dr Finn Winslow",
+      "department": {
+        "id": 4,
+        "name": "Archaeology"
+      },
+      "biography": "Finn combines satellite imagery and field surveys to reconstruct settlement patterns and archaeological landscapes. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect excavation with landscape archaeology in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 10,
+          "name": "Remote sensing"
+        },
+        {
+          "id": 11,
+          "name": "Landscape archaeology"
+        },
+        {
+          "id": 12,
+          "name": "Spatial analysis"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 10,
+          "name": "excavation"
+        },
+        {
+          "id": 11,
+          "name": "landscapes"
+        },
+        {
+          "id": 12,
+          "name": "geospatial data"
+        }
+      ],
+      "themes": [
+        {
+          "id": 2,
+          "name": "Culture & heritage",
+          "description": "Understanding and preserving material and intangible culture."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 109,
+          "title": "Tracing Settlement Networks with Satellite Imagery — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates excavation through remote sensing. It uses ethical data practice to examine landscapes, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 110,
+          "title": "A Reproducible Survey of Coastal Landscapes — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates landscapes through landscape archaeology. It uses ethical data practice to examine geospatial data, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 29,
+      "name": "Dr Noor Redfern",
+      "department": {
+        "id": 5,
+        "name": "Cultural Heritage"
+      },
+      "biography": "Noor develops participatory approaches to preserving museum collections through three-dimensional reconstruction and community interpretation. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect collections with 3d reconstruction in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 13,
+          "name": "Digital preservation"
+        },
+        {
+          "id": 14,
+          "name": "3D reconstruction"
+        },
+        {
+          "id": 15,
+          "name": "Museum studies"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 13,
+          "name": "collections"
+        },
+        {
+          "id": 14,
+          "name": "conservation"
+        },
+        {
+          "id": 15,
+          "name": "cultural heritage"
+        }
+      ],
+      "themes": [
+        {
+          "id": 2,
+          "name": "Culture & heritage",
+          "description": "Understanding and preserving material and intangible culture."
+        }
+      ],
+      "publications": [
+        {
+          "id": 113,
+          "title": "Participatory Reconstruction of Material Heritage — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates collections through digital preservation. It uses ethical data practice to examine conservation, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 114,
+          "title": "Digital Conservation Beyond the Museum — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates conservation through 3d reconstruction. It uses ethical data practice to examine cultural heritage, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 115,
+          "title": "Participatory Reconstruction of Material Heritage: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates cultural heritage through museum studies. It uses ethical data practice to examine collections, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 30,
+      "name": "Dr Jasper Langford",
+      "department": {
+        "id": 6,
+        "name": "Computer Science"
+      },
+      "biography": "Jasper designs interpretable learning algorithms and reproducible software to examine uncertainty and bias in scientific datasets. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect algorithms with explainable ai in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 3,
+          "name": "Machine learning"
+        },
+        {
+          "id": 16,
+          "name": "Explainable AI"
+        },
+        {
+          "id": 17,
+          "name": "Research software"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 16,
+          "name": "algorithms"
+        },
+        {
+          "id": 17,
+          "name": "reproducibility"
+        },
+        {
+          "id": 18,
+          "name": "model evaluation"
+        }
+      ],
+      "themes": [
+        {
+          "id": 3,
+          "name": "Responsible computation",
+          "description": "Transparent, inclusive computational methods for research."
+        }
+      ],
+      "publications": [
+        {
+          "id": 117,
+          "title": "Interpretable Models for Small Research Datasets — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates algorithms through machine learning. It uses ethical data practice to examine reproducibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 118,
+          "title": "Evaluating Uncertainty in Scientific Machine Learning — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates reproducibility through explainable ai. It uses ethical data practice to examine model evaluation, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 119,
+          "title": "Interpretable Models for Small Research Datasets: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates model evaluation through research software. It uses ethical data practice to examine algorithms, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 120,
+          "title": "Evaluating Uncertainty in Scientific Machine Learning: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates algorithms through machine learning. It uses ethical data practice to examine reproducibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 31,
+      "name": "Dr Elin Everett",
+      "department": {
+        "id": 7,
+        "name": "Design & Informatics"
+      },
+      "biography": "Elin creates accessible visual interfaces that help diverse audiences explore complex data and understand uncertainty. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect interaction with human-computer interaction in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 18,
+          "name": "Data visualisation"
+        },
+        {
+          "id": 19,
+          "name": "Human-computer interaction"
+        },
+        {
+          "id": 20,
+          "name": "Accessible design"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 19,
+          "name": "interaction"
+        },
+        {
+          "id": 20,
+          "name": "accessibility"
+        },
+        {
+          "id": 21,
+          "name": "visual analytics"
+        }
+      ],
+      "themes": [
+        {
+          "id": 3,
+          "name": "Responsible computation",
+          "description": "Transparent, inclusive computational methods for research."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 121,
+          "title": "Accessible Visual Analytics for Public Research — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates interaction through data visualisation. It uses ethical data practice to examine accessibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 122,
+          "title": "Communicating Uncertainty through Interactive Design — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates accessibility through human-computer interaction. It uses ethical data practice to examine visual analytics, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 32,
+      "name": "Dr Samir Brookmere",
+      "department": {
+        "id": 8,
+        "name": "Sociology"
+      },
+      "biography": "Samir examines social inequality and community participation through network analysis, interviews and longitudinal surveys. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect inequality with social network analysis in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 21,
+          "name": "Computational social science"
+        },
+        {
+          "id": 22,
+          "name": "Social network analysis"
+        },
+        {
+          "id": 23,
+          "name": "Qualitative methods"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 22,
+          "name": "inequality"
+        },
+        {
+          "id": 23,
+          "name": "communities"
+        },
+        {
+          "id": 24,
+          "name": "social networks"
+        }
+      ],
+      "themes": [
+        {
+          "id": 4,
+          "name": "Society & communities",
+          "description": "Social change, participation and equitable institutions."
+        }
+      ],
+      "publications": [
+        {
+          "id": 125,
+          "title": "Mapping Participation in Community Networks — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates inequality through computational social science. It uses ethical data practice to examine communities, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 126,
+          "title": "Mixed Methods for Studying Social Inequality — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates communities through social network analysis. It uses ethical data practice to examine social networks, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 127,
+          "title": "Mapping Participation in Community Networks: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates social networks through qualitative methods. It uses ethical data practice to examine inequality, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 33,
+      "name": "Dr Alma Kingswell",
+      "department": {
+        "id": 9,
+        "name": "Literature"
+      },
+      "biography": "Alma explores narrative form and publishing history using close reading alongside computational analysis of digitised novels. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect narrative with text mining in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 24,
+          "name": "Literary analysis"
+        },
+        {
+          "id": 25,
+          "name": "Text mining"
+        },
+        {
+          "id": 26,
+          "name": "Book history"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 25,
+          "name": "narrative"
+        },
+        {
+          "id": 26,
+          "name": "publishing"
+        },
+        {
+          "id": 27,
+          "name": "distant reading"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 129,
+          "title": "Narrative Patterns across Digitised Fiction — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates narrative through literary analysis. It uses ethical data practice to examine publishing, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 130,
+          "title": "The Changing Networks of Independent Publishing — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates publishing through text mining. It uses ethical data practice to examine distant reading, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 131,
+          "title": "Narrative Patterns across Digitised Fiction: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates distant reading through book history. It uses ethical data practice to examine narrative, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 132,
+          "title": "The Changing Networks of Independent Publishing: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates narrative through literary analysis. It uses ethical data practice to examine publishing, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 34,
+      "name": "Dr Tobin Hartley",
+      "department": {
+        "id": 10,
+        "name": "Geography"
+      },
+      "biography": "Tobin maps how urban communities experience environmental change and develop equitable approaches to climate adaptation. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect climate with climate adaptation in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 27,
+          "name": "Geographic information systems"
+        },
+        {
+          "id": 28,
+          "name": "Climate adaptation"
+        },
+        {
+          "id": 12,
+          "name": "Spatial analysis"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 28,
+          "name": "climate"
+        },
+        {
+          "id": 29,
+          "name": "cities"
+        },
+        {
+          "id": 30,
+          "name": "environmental justice"
+        }
+      ],
+      "themes": [
+        {
+          "id": 5,
+          "name": "Environment & place",
+          "description": "Relationships between communities, landscapes and environmental change."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 133,
+          "title": "Urban Heat and Unequal Exposure — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates climate through geographic information systems. It uses ethical data practice to examine cities, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 134,
+          "title": "Community Mapping for Climate Adaptation — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates cities through climate adaptation. It uses ethical data practice to examine environmental justice, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 35,
+      "name": "Dr Yara Greenfell",
+      "department": {
+        "id": 11,
+        "name": "Information Studies"
+      },
+      "biography": "Yara builds sustainable research data practices using interoperable metadata, open repositories and community-led stewardship. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect FAIR data with metadata standards in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 29,
+          "name": "Digital archives"
+        },
+        {
+          "id": 30,
+          "name": "Metadata standards"
+        },
+        {
+          "id": 31,
+          "name": "Open science"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 31,
+          "name": "FAIR data"
+        },
+        {
+          "id": 32,
+          "name": "repositories"
+        },
+        {
+          "id": 33,
+          "name": "data stewardship"
+        }
+      ],
+      "themes": [
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 137,
+          "title": "Interoperable Metadata for Community Collections — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates FAIR data through digital archives. It uses ethical data practice to examine repositories, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 138,
+          "title": "Sustainable Stewardship of Open Research Data — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates repositories through metadata standards. It uses ethical data practice to examine data stewardship, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 139,
+          "title": "Interoperable Metadata for Community Collections: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates data stewardship through open science. It uses ethical data practice to examine FAIR data, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 36,
+      "name": "Dr Evan Woodmere",
+      "department": {
+        "id": 12,
+        "name": "Social Policy"
+      },
+      "biography": "Evan evaluates public services with participatory methods and linked administrative data to understand barriers to inclusion. Their work examines whose perspectives are missing from datasets and how research practices can address exclusion. Current projects connect public services with computational social science in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 32,
+          "name": "Policy evaluation"
+        },
+        {
+          "id": 21,
+          "name": "Computational social science"
+        },
+        {
+          "id": 33,
+          "name": "Participatory research"
+        },
+        {
+          "id": 35,
+          "name": "Ethical data practice"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 34,
+          "name": "public services"
+        },
+        {
+          "id": 35,
+          "name": "inclusion"
+        },
+        {
+          "id": 36,
+          "name": "evidence"
+        }
+      ],
+      "themes": [
+        {
+          "id": 4,
+          "name": "Society & communities",
+          "description": "Social change, participation and equitable institutions."
+        }
+      ],
+      "publications": [
+        {
+          "id": 141,
+          "title": "Participatory Evidence for Inclusive Public Services — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates public services through policy evaluation. It uses ethical data practice to examine inclusion, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 142,
+          "title": "Evaluating Local Policy with Linked Data — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates inclusion through computational social science. It uses ethical data practice to examine evidence, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 143,
+          "title": "Participatory Evidence for Inclusive Public Services: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates evidence through participatory research. It uses ethical data practice to examine public services, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 144,
+          "title": "Evaluating Local Policy with Linked Data: Follow-up Evidence — Representation and Missing Perspectives",
+          "abstract": "This fictional study investigates public services through policy evaluation. It uses ethical data practice to examine inclusion, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 37,
+      "name": "Dr Ines Ainsley",
+      "department": {
+        "id": 1,
+        "name": "Digital Humanities"
+      },
+      "biography": "Ines investigates how computational methods reveal patterns in historical correspondence and digitised collections. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect correspondence with historical archives in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 1,
+          "name": "Natural language processing"
+        },
+        {
+          "id": 2,
+          "name": "Historical archives"
+        },
+        {
+          "id": 3,
+          "name": "Machine learning"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 1,
+          "name": "correspondence"
+        },
+        {
+          "id": 2,
+          "name": "text mining"
+        },
+        {
+          "id": 3,
+          "name": "digital archives"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 145,
+          "title": "Computational Analysis of Nineteenth-Century Correspondence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates correspondence through natural language processing. It uses comparative analysis to examine text mining, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 146,
+          "title": "Recovering Voices from Fragmented Archives — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates text mining through historical archives. It uses comparative analysis to examine digital archives, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 38,
+      "name": "Dr Milo Rivers",
+      "department": {
+        "id": 2,
+        "name": "History"
+      },
+      "biography": "Milo studies migration and collective memory through oral testimony, community records and historical documents. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect memory with archival analysis in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 5,
+          "name": "Oral history"
+        },
+        {
+          "id": 6,
+          "name": "Archival analysis"
+        },
+        {
+          "id": 7,
+          "name": "Public history"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 4,
+          "name": "memory"
+        },
+        {
+          "id": 5,
+          "name": "migration"
+        },
+        {
+          "id": 6,
+          "name": "historical documents"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 149,
+          "title": "Community Memory and the Moving Archive — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates memory through oral history. It uses comparative analysis to examine migration, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 150,
+          "title": "Reading Migration through Local Records — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates migration through archival analysis. It uses comparative analysis to examine historical documents, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 151,
+          "title": "Community Memory and the Moving Archive: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates historical documents through public history. It uses comparative analysis to examine memory, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 39,
+      "name": "Dr Dara Farnell",
+      "department": {
+        "id": 3,
+        "name": "Linguistics"
+      },
+      "biography": "Dara examines language change across multilingual communities using annotated text corpora and spoken narratives. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect multilingualism with natural language processing in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 8,
+          "name": "Corpus linguistics"
+        },
+        {
+          "id": 1,
+          "name": "Natural language processing"
+        },
+        {
+          "id": 9,
+          "name": "Sociolinguistics"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 7,
+          "name": "multilingualism"
+        },
+        {
+          "id": 8,
+          "name": "speech"
+        },
+        {
+          "id": 9,
+          "name": "language change"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 153,
+          "title": "Language Change in Multilingual Neighbourhoods — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates multilingualism through corpus linguistics. It uses comparative analysis to examine speech, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 154,
+          "title": "Building Inclusive Speech Corpora — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates speech through natural language processing. It uses comparative analysis to examine language change, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 155,
+          "title": "Language Change in Multilingual Neighbourhoods: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates language change through sociolinguistics. It uses comparative analysis to examine multilingualism, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 156,
+          "title": "Building Inclusive Speech Corpora: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates multilingualism through corpus linguistics. It uses comparative analysis to examine speech, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 40,
+      "name": "Dr Remy Kestrel",
+      "department": {
+        "id": 4,
+        "name": "Archaeology"
+      },
+      "biography": "Remy combines satellite imagery and field surveys to reconstruct settlement patterns and archaeological landscapes. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect excavation with landscape archaeology in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 10,
+          "name": "Remote sensing"
+        },
+        {
+          "id": 11,
+          "name": "Landscape archaeology"
+        },
+        {
+          "id": 12,
+          "name": "Spatial analysis"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 10,
+          "name": "excavation"
+        },
+        {
+          "id": 11,
+          "name": "landscapes"
+        },
+        {
+          "id": 12,
+          "name": "geospatial data"
+        }
+      ],
+      "themes": [
+        {
+          "id": 2,
+          "name": "Culture & heritage",
+          "description": "Understanding and preserving material and intangible culture."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 157,
+          "title": "Tracing Settlement Networks with Satellite Imagery — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates excavation through remote sensing. It uses comparative analysis to examine landscapes, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 158,
+          "title": "A Reproducible Survey of Coastal Landscapes — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates landscapes through landscape archaeology. It uses comparative analysis to examine geospatial data, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 41,
+      "name": "Dr Lina Oakley",
+      "department": {
+        "id": 5,
+        "name": "Cultural Heritage"
+      },
+      "biography": "Lina develops participatory approaches to preserving museum collections through three-dimensional reconstruction and community interpretation. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect collections with 3d reconstruction in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 13,
+          "name": "Digital preservation"
+        },
+        {
+          "id": 14,
+          "name": "3D reconstruction"
+        },
+        {
+          "id": 15,
+          "name": "Museum studies"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 13,
+          "name": "collections"
+        },
+        {
+          "id": 14,
+          "name": "conservation"
+        },
+        {
+          "id": 15,
+          "name": "cultural heritage"
+        }
+      ],
+      "themes": [
+        {
+          "id": 2,
+          "name": "Culture & heritage",
+          "description": "Understanding and preserving material and intangible culture."
+        }
+      ],
+      "publications": [
+        {
+          "id": 161,
+          "title": "Participatory Reconstruction of Material Heritage — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates collections through digital preservation. It uses comparative analysis to examine conservation, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 162,
+          "title": "Digital Conservation Beyond the Museum — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates conservation through 3d reconstruction. It uses comparative analysis to examine cultural heritage, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 163,
+          "title": "Participatory Reconstruction of Material Heritage: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates cultural heritage through museum studies. It uses comparative analysis to examine collections, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 42,
+      "name": "Dr Owen Linden",
+      "department": {
+        "id": 6,
+        "name": "Computer Science"
+      },
+      "biography": "Owen designs interpretable learning algorithms and reproducible software to examine uncertainty and bias in scientific datasets. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect algorithms with explainable ai in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 3,
+          "name": "Machine learning"
+        },
+        {
+          "id": 16,
+          "name": "Explainable AI"
+        },
+        {
+          "id": 17,
+          "name": "Research software"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 16,
+          "name": "algorithms"
+        },
+        {
+          "id": 17,
+          "name": "reproducibility"
+        },
+        {
+          "id": 18,
+          "name": "model evaluation"
+        }
+      ],
+      "themes": [
+        {
+          "id": 3,
+          "name": "Responsible computation",
+          "description": "Transparent, inclusive computational methods for research."
+        }
+      ],
+      "publications": [
+        {
+          "id": 165,
+          "title": "Interpretable Models for Small Research Datasets — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates algorithms through machine learning. It uses comparative analysis to examine reproducibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 166,
+          "title": "Evaluating Uncertainty in Scientific Machine Learning — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates reproducibility through explainable ai. It uses comparative analysis to examine model evaluation, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 167,
+          "title": "Interpretable Models for Small Research Datasets: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates model evaluation through research software. It uses comparative analysis to examine algorithms, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 168,
+          "title": "Evaluating Uncertainty in Scientific Machine Learning: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates algorithms through machine learning. It uses comparative analysis to examine reproducibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 43,
+      "name": "Dr Zola Moreland",
+      "department": {
+        "id": 7,
+        "name": "Design & Informatics"
+      },
+      "biography": "Zola creates accessible visual interfaces that help diverse audiences explore complex data and understand uncertainty. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect interaction with human-computer interaction in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 18,
+          "name": "Data visualisation"
+        },
+        {
+          "id": 19,
+          "name": "Human-computer interaction"
+        },
+        {
+          "id": 20,
+          "name": "Accessible design"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 19,
+          "name": "interaction"
+        },
+        {
+          "id": 20,
+          "name": "accessibility"
+        },
+        {
+          "id": 21,
+          "name": "visual analytics"
+        }
+      ],
+      "themes": [
+        {
+          "id": 3,
+          "name": "Responsible computation",
+          "description": "Transparent, inclusive computational methods for research."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 169,
+          "title": "Accessible Visual Analytics for Public Research — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates interaction through data visualisation. It uses comparative analysis to examine accessibility, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 170,
+          "title": "Communicating Uncertainty through Interactive Design — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates accessibility through human-computer interaction. It uses comparative analysis to examine visual analytics, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 44,
+      "name": "Dr Asa Perrin",
+      "department": {
+        "id": 8,
+        "name": "Sociology"
+      },
+      "biography": "Asa examines social inequality and community participation through network analysis, interviews and longitudinal surveys. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect inequality with social network analysis in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 21,
+          "name": "Computational social science"
+        },
+        {
+          "id": 22,
+          "name": "Social network analysis"
+        },
+        {
+          "id": 23,
+          "name": "Qualitative methods"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 22,
+          "name": "inequality"
+        },
+        {
+          "id": 23,
+          "name": "communities"
+        },
+        {
+          "id": 24,
+          "name": "social networks"
+        }
+      ],
+      "themes": [
+        {
+          "id": 4,
+          "name": "Society & communities",
+          "description": "Social change, participation and equitable institutions."
+        }
+      ],
+      "publications": [
+        {
+          "id": 173,
+          "title": "Mapping Participation in Community Networks — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates inequality through computational social science. It uses comparative analysis to examine communities, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 174,
+          "title": "Mixed Methods for Studying Social Inequality — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates communities through social network analysis. It uses comparative analysis to examine social networks, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 175,
+          "title": "Mapping Participation in Community Networks: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates social networks through qualitative methods. It uses comparative analysis to examine inequality, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 45,
+      "name": "Dr Nila Somerton",
+      "department": {
+        "id": 9,
+        "name": "Literature"
+      },
+      "biography": "Nila explores narrative form and publishing history using close reading alongside computational analysis of digitised novels. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect narrative with text mining in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 24,
+          "name": "Literary analysis"
+        },
+        {
+          "id": 25,
+          "name": "Text mining"
+        },
+        {
+          "id": 26,
+          "name": "Book history"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 25,
+          "name": "narrative"
+        },
+        {
+          "id": 26,
+          "name": "publishing"
+        },
+        {
+          "id": 27,
+          "name": "distant reading"
+        }
+      ],
+      "themes": [
+        {
+          "id": 1,
+          "name": "Language & archives",
+          "description": "Methods for interpreting cultural records at scale."
+        }
+      ],
+      "publications": [
+        {
+          "id": 177,
+          "title": "Narrative Patterns across Digitised Fiction — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates narrative through literary analysis. It uses comparative analysis to examine publishing, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        },
+        {
+          "id": 178,
+          "title": "The Changing Networks of Independent Publishing — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates publishing through text mining. It uses comparative analysis to examine distant reading, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 179,
+          "title": "Narrative Patterns across Digitised Fiction: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates distant reading through book history. It uses comparative analysis to examine narrative, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 180,
+          "title": "The Changing Networks of Independent Publishing: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates narrative through literary analysis. It uses comparative analysis to examine publishing, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 46,
+      "name": "Dr Soren Waverley",
+      "department": {
+        "id": 10,
+        "name": "Geography"
+      },
+      "biography": "Soren maps how urban communities experience environmental change and develop equitable approaches to climate adaptation. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect climate with climate adaptation in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 27,
+          "name": "Geographic information systems"
+        },
+        {
+          "id": 28,
+          "name": "Climate adaptation"
+        },
+        {
+          "id": 12,
+          "name": "Spatial analysis"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 28,
+          "name": "climate"
+        },
+        {
+          "id": 29,
+          "name": "cities"
+        },
+        {
+          "id": 30,
+          "name": "environmental justice"
+        }
+      ],
+      "themes": [
+        {
+          "id": 5,
+          "name": "Environment & place",
+          "description": "Relationships between communities, landscapes and environmental change."
+        },
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 181,
+          "title": "Urban Heat and Unequal Exposure — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates climate through geographic information systems. It uses comparative analysis to examine cities, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2023
+        },
+        {
+          "id": 182,
+          "title": "Community Mapping for Climate Adaptation — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates cities through climate adaptation. It uses comparative analysis to examine environmental justice, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 47,
+      "name": "Dr Thea Claybourne",
+      "department": {
+        "id": 11,
+        "name": "Information Studies"
+      },
+      "biography": "Thea builds sustainable research data practices using interoperable metadata, open repositories and community-led stewardship. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect FAIR data with metadata standards in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 29,
+          "name": "Digital archives"
+        },
+        {
+          "id": 30,
+          "name": "Metadata standards"
+        },
+        {
+          "id": 31,
+          "name": "Open science"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 31,
+          "name": "FAIR data"
+        },
+        {
+          "id": 32,
+          "name": "repositories"
+        },
+        {
+          "id": 33,
+          "name": "data stewardship"
+        }
+      ],
+      "themes": [
+        {
+          "id": 6,
+          "name": "Open knowledge",
+          "description": "Reproducible, discoverable and accessible research infrastructure."
+        }
+      ],
+      "publications": [
+        {
+          "id": 185,
+          "title": "Interoperable Metadata for Community Collections — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates FAIR data through digital archives. It uses comparative analysis to examine repositories, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2024
+        },
+        {
+          "id": 186,
+          "title": "Sustainable Stewardship of Open Research Data — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates repositories through metadata standards. It uses comparative analysis to examine data stewardship, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 187,
+          "title": "Interoperable Metadata for Community Collections: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates data stewardship through open science. It uses comparative analysis to examine FAIR data, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 48,
+      "name": "Dr Emil Finch",
+      "department": {
+        "id": 12,
+        "name": "Social Policy"
+      },
+      "biography": "Emil evaluates public services with participatory methods and linked administrative data to understand barriers to inclusion. Their work compares regional case studies to understand how local context changes the interpretation of evidence. Current projects connect public services with computational social science in carefully documented demonstration studies.",
+      "expertise": [
+        {
+          "id": 32,
+          "name": "Policy evaluation"
+        },
+        {
+          "id": 21,
+          "name": "Computational social science"
+        },
+        {
+          "id": 33,
+          "name": "Participatory research"
+        },
+        {
+          "id": 36,
+          "name": "Comparative analysis"
+        }
+      ],
+      "keywords": [
+        {
+          "id": 34,
+          "name": "public services"
+        },
+        {
+          "id": 35,
+          "name": "inclusion"
+        },
+        {
+          "id": 36,
+          "name": "evidence"
+        }
+      ],
+      "themes": [
+        {
+          "id": 4,
+          "name": "Society & communities",
+          "description": "Social change, participation and equitable institutions."
+        }
+      ],
+      "publications": [
+        {
+          "id": 189,
+          "title": "Participatory Evidence for Inclusive Public Services — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates public services through policy evaluation. It uses comparative analysis to examine inclusion, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2025
+        },
+        {
+          "id": 190,
+          "title": "Evaluating Local Policy with Linked Data — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates inclusion through computational social science. It uses comparative analysis to examine evidence, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2020
+        },
+        {
+          "id": 191,
+          "title": "Participatory Evidence for Inclusive Public Services: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates evidence through participatory research. It uses comparative analysis to examine public services, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2021
+        },
+        {
+          "id": 192,
+          "title": "Evaluating Local Policy with Linked Data: Follow-up Evidence — A Comparative Regional Analysis",
+          "abstract": "This fictional study investigates public services through policy evaluation. It uses comparative analysis to examine inclusion, describes methodological limitations and provides a reproducible framework for interpretation.",
+          "publication_year": 2022
+        }
+      ],
+      "updated_at": "2026-01-15T12:00:00Z"
+    }
+  ]
+}
