@@ -176,5 +176,3 @@ Captured from the labelled offline interface preview (these do not demonstrate b
 ## Technical references
 
 Implementation follows the primary documentation for [pgvector’s SQLAlchemy integration](https://github.com/pgvector/pgvector-python), [SentenceTransformer encoding and model revisions](https://www.sbert.net/docs/package_reference/sentence_transformer/model.html), [PostgreSQL full-text search](https://www.postgresql.org/docs/16/textsearch.html) and [FastAPI](https://fastapi.tiangolo.com/).
-#   R e s e a r c h - D i s c o v e r y - E x p l o r e r - - - K D L  
- 
